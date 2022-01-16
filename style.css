@@ -5,3 +5,13 @@ body
 	background-repeat: no;
 	background-attachment: fixed;
 }
+
+h1
+{
+	color: ghostwhite;
+}
+
+p
+{
+	color: ghostwhite;
+}
