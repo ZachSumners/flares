@@ -1,7 +1,6 @@
 body
 {
-	background-image: sgra_jet_creditsNASA.jpg;
-	background-color: lightblue;
+	background-image: url("sgra_jet_creditsNASA.jpg");
 	background-repeat: no;
 	background-attachment: fixed;
 	background-size: cover;
