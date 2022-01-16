@@ -1,7 +1,7 @@
 body
 {
 	background-image: url("bh_jet_credsNASAJPL.jpg");
-	background-size: auto;
+	background-size: cover;
 	background-repeat: no;
 	background-attachment: fixed;
 }
