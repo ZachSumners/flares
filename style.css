@@ -9,8 +9,8 @@
 {
 	border-radius: 50%;
 	float: left;
-	width: 70px;
-	height: 70px;
+	width: 80px;
+	height: 80px;
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -21,12 +21,12 @@
 
 /* Left column */
 .column.side {
-  width: 25%;
+  width: 35%;
 }
 
 /* Middle column */
 .column.middle {
-  width: 70%;
+  width: 64%;
 }
 
 /* Clear floats after the columns */
