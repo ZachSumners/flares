@@ -1,6 +1,6 @@
 .header 
 {
-  background-color: "#3282828";
+  background-color: black;
   padding: 12px;
   text-align: center;
 }
@@ -32,7 +32,9 @@
 
 .flareSMBH
 {
-
+	width: 200px;
+	height: 200px;
+	
 }
 
 /* Clear floats after the columns */
