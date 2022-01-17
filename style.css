@@ -1,6 +1,7 @@
 .header 
 {
   background-color: black;
+  opacity: 0.40;
   padding: 12px;
   text-align: center;
 }
