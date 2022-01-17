@@ -1,6 +1,6 @@
 .header 
 {
-  background-color: #3E3432;
+  background-color: "#3E3432";
   padding: 12px;
   text-align: center;
 }
@@ -25,8 +25,14 @@
 }
 
 /* Middle column */
-.column.middle {
+.column.middle 
+{
   width: 60%;
+}
+
+.flareSMBH
+{
+
 }
 
 /* Clear floats after the columns */
@@ -38,7 +44,7 @@
 
 body
 {
-	background-image: url("bh_jet_credsNASAJPL.jpg");
+	background-color: grey;
 	background-size: cover;
 	background-repeat: no;
 	background-attachment: fixed;
