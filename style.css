@@ -32,11 +32,10 @@
   width: 60%;
 }
 
-.flareSMBH
+.responsive 
 {
-	width: 100px;
-	height: 100px;
-
+  width: 100%;
+  height: auto;
 }
 
 /* Clear floats after the columns */
