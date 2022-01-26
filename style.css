@@ -3,6 +3,7 @@
   background-color: #AD49FF;
   padding: 12px;
   text-align: center;
+  font-family: Arial, Arial Narrow, sans-serif;
 }
 
 .mega 
@@ -65,10 +66,12 @@ body
 h1
 {
 	color: black;
+	font-family: Arial, Arial Narrow, sans-serif;
 }
 
 p
 {
 	color: black;
+	font-family: Arial, Arial Narrow, sans-serif;
 }
 
