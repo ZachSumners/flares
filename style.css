@@ -1,6 +1,6 @@
 .header 
 {
-  background-color: #e9cdff;
+  background-color: #AD49FF;
   padding: 12px;
   text-align: center;
   font-family: Verdana, sans-serif;
@@ -58,10 +58,11 @@ body
 
 /* Style the footer */
 .footer {
-  background-color: #C689FF;
+  background-color: #e9cdff;
   color: black;
   padding: 10px;
   text-align: left;
+  font-size: 12px;
 }
 
 h1, h2
