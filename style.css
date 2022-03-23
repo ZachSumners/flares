@@ -87,14 +87,14 @@ body
 /* Left column */
 .footerc.side 
 {
-  width: 49%;
+  width: 40%;
   text-align: right;
 }
 
 /* Middle column */
 .footerc.middle 
 {
-  width: 49%;
+  width: 40%;
   text-align: left;
 }
 
