@@ -87,14 +87,14 @@ body
 /* Left column */
 .footerc.side 
 {
-  width: 40%;
+  width: 45%;
   text-align: right;
 }
 
 /* Middle column */
 .footerc.middle 
 {
-  width: 40%;
+  width: 45%;
   text-align: left;
 }
 
@@ -112,10 +112,13 @@ h2
   font-size: 17px;
 }
 
-strong
+/* Center image */
+.center 
 {
-  font-family: Verdana, sans-serif;
-  font-weight: bold;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 p
