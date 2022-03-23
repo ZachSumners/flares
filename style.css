@@ -65,6 +65,8 @@ body
   font-size: 12px;
   padding: 8px;
   position: fixed;
+  bottom: 0;
+  left: 0;
 }
 
 #left 
