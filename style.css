@@ -63,7 +63,7 @@ body
   color: black;
 }
 
-.foot
+p.foot
 {
 font-size: 6px;
 }
@@ -112,7 +112,7 @@ h2
   width: 20%;
 }
 
-.bod 
+p.bod 
 {
 	color: black;
 	font-family: Verdana, sans-serif;
