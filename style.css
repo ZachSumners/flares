@@ -49,23 +49,19 @@ body
   height: auto;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 
 /* Style the footer */
 .footer 
 {
   background-color: #e9cdff;
   color: black;
+  padding: 10px;
 }
 
 p.foot
 {
-font-size: 6px;
+font-size: 10px;
 }
 
 
