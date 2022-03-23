@@ -57,19 +57,6 @@ body
 }
 
 /* Style the footer */
-.footer 
-{
-  background-color: #e9cdff;
-  color: black;
-  font-size: 12px;
-}
-
-.footerp
-{
-  font-size: 12px;
-  font-family: Verdana, sans-serif;
-}
-
 .footerc 
 {
   padding: 10px;
