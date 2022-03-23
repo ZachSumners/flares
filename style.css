@@ -78,14 +78,14 @@ body
 /* Right column */
 .footerc.right 
 {
-  width: 45%;
+  width: 50%;
   text-align: right;
 }
 
 /* Left column */
 .footerc.left 
 {
-  width: 45%;
+  width: 50%;
   text-align: left;
 }
 
