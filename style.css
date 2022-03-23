@@ -57,26 +57,18 @@ body
 }
 
 /* Style the footer */
-.footer_outer{
-width: 980px;
-border: 1px solid;
-font-size: 12px;
-font-family: Verdana, sans-serif;
-background-color: #e9cdff;
-color: black;
-padding: 10px;
+.footer {
+  background-color: #e9cdff;
+  color: black;
+  padding: 10px;
+  text-align: left;
+  font-size: 12px;
 }
 
-.footer_inner_left{
-width: 49%;
-Float: left;
-display:inline;
-}
-
-.footer_inner_right{
-width: 49%;
-Float: right;
-display:inline;
+.footerp
+{
+  font-size: 12px;
+  font-family: Verdana, sans-serif;
 }
 
 h1
