@@ -31,13 +31,13 @@ body
   padding: 10px;
 }
 
-/* Left column */
+/* Right column */
 .column.side 
 {
   width: 35%;
 }
 
-/* Middle column */
+/* Left column */
 .column.middle 
 {
   width: 60%;
@@ -80,18 +80,17 @@ body
 
 .footerc 
 {
-  float: left;
   padding: 10px;
 }
 
-/* Left column */
+/* Right column */
 .footerc.side 
 {
   width: 45%;
   text-align: right;
 }
 
-/* Middle column */
+/* Left column */
 .footerc.middle 
 {
   width: 45%;
