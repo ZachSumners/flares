@@ -88,14 +88,14 @@ body
 .footerc.side 
 {
   width: 49%;
-  text-align: left;
+  text-align: right;
 }
 
 /* Middle column */
 .footerc.middle 
 {
   width: 49%;
-  text-align: right;
+  text-align: left;
 }
 
 h1
