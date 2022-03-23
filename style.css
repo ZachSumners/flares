@@ -59,20 +59,20 @@ body
 /* Style the footer */
 .footerc 
 {
-  padding: 10px;
+  width: 100%;
 }
 
 /* Right column */
 .footerc.right 
 {
-  width: 50%;
+  width: 49%;
   text-align: right;
 }
 
 /* Left column */
 .footerc.left 
 {
-  width: 50%;
+  width: 49%;
   text-align: left;
 }
 
