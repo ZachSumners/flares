@@ -76,14 +76,14 @@ body
 }
 
 /* Right column */
-.footerc.side 
+.footerc.right 
 {
   width: 45%;
   text-align: right;
 }
 
 /* Left column */
-.footerc.middle 
+.footerc.left 
 {
   width: 45%;
   text-align: left;
