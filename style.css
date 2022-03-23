@@ -57,6 +57,14 @@ body
 }
 
 /* Style the footer */
+.footer 
+{
+  background-color: #e9cdff;
+  color: black;
+  font-size: 12px;
+}
+
+
 .footerc 
 {
   width: 100%;
@@ -65,22 +73,17 @@ body
 /* Right column */
 .footerc.right 
 {
-  width: 49%;
+  width: 60%;
   text-align: right;
 }
 
 /* Left column */
 .footerc.left 
 {
-  width: 49%;
+  width: 35%;
   text-align: left;
 }
 
-.footer:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
 h1
 {
@@ -102,7 +105,7 @@ h2
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 3%;
+  width: 20%;
 }
 
 p
