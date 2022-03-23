@@ -61,7 +61,11 @@ body
 {
   background-color: #e9cdff;
   color: black;
-  font-size: 6px;
+}
+
+.foot
+{
+font-size: 6px;
 }
 
 
