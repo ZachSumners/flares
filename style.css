@@ -28,7 +28,7 @@ body
 .column
 {
   float: left;
-  padding: 10px;
+  padding: 6px;
 }
 
 /* Right column */
@@ -62,7 +62,7 @@ body
   background-color: #e9cdff;
   color: black;
   font-family: Verdana, sans-serif;
-  font-size: 12px;
+  font-size: 10px;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -92,5 +92,5 @@ p.bod
 {
 	color: black;
 	font-family: Verdana, sans-serif;
-	font-size: 16px;
+	font-size: 13px;
 }
