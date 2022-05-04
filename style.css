@@ -46,7 +46,8 @@ body
 
 .responsive
 {
-  max-width: 50%;
+  max-width: 100%;
+  height: auto;
 }
 
 /* Clear floats after the columns */
