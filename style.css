@@ -72,6 +72,12 @@ body
   width: 100%;
 }
 
+#email
+{
+  color: #AD49FF;
+  font-family: italic;
+}
+
 h1
 {
 	color: black;
