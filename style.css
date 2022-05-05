@@ -64,23 +64,12 @@ body
   color: black;
   font-family: Verdana, sans-serif;
   font-size: 10px;
+  text-align: center;
   position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
 }
-
-#left
-{
-  text-align: left;
-}
-
-#right
-{
-  text-align: right;
-  float: right;
-}
-
 
 h1
 {
@@ -93,5 +82,5 @@ p.bod
 {
 	color: black;
 	font-family: Verdana, sans-serif;
-	font-size: 9px;
+	font-size: 13px;
 }
