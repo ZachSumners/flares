@@ -1,9 +1,9 @@
 Form for one (1) x-ray flare submission. Submit multiple forms in the same email for
-two (2) new flares or more.
+two (2) new flares or more. 
 
 Please fill it out and send it back to daryl.haggard@mcgill.ca for the submission to
-be added to the table. Make sure to use Flare Table - New Flare Submission as the 
-object of the email.
+be added to the table. Make sure to use Flare Table - New Flare Submission (ObsID) 
+as the object of the email and use new_flare_submission_ObsID as the file title.
 
 If you don't have a number for a category, leave it blank. Make sure to report
 quantities in given units.
