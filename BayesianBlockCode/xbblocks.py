@@ -90,8 +90,8 @@ def binbblock (widths, counts, p0=0.05):
     count_remainders = ccounts[-1] - ccounts
 
     prev_blockstarts = None
-    best = np.zeros (ncells, dtype=np.float)
-    last = np.zeros (ncells, dtype=np.int)
+    best = np.zeros (ncells, dtype=np.float32)
+    last = np.zeros (ncells, dtype=np.int32)
 
     for _ in range (10):
         # Pluggable num-change-points prior-weight expression:
@@ -155,7 +155,7 @@ def binbblock (widths, counts, p0=0.05):
     info.origp0 = origp0
     info.finalp0 = p0
     info.blockstarts = blockstarts
-    info.counts = np.empty (nblocks, dtype=np.int)
+    info.counts = np.empty (nblocks, dtype=np.int32)
     info.widths = np.empty (nblocks)
 
     for iblk in range (nblocks):
